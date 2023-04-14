@@ -4,9 +4,9 @@ GeoMetaFacet  is a web client to explore and visualize geodata. It focuses on a 
  
 Core features of GeoMetaFacet are an interactive data lineage graph and a hierarchy tree, which can be used to evaluate available data. Furthermore several map functionalities, e.g. time series data visualization, geographic search with gazetteer Geonames are integrated into the web client.
 
-Further information can be found at: http://52north.org/communities/metadata-management/gmf
+Further information can be found at: https://52north.org/about-us/profile/
 
-Live demo is available at: http://geoportal.glues.geo.tu-dresden.de:8080/GeoMetaFacet/index.html
+Live demo is available at: https://52north.org/software/software-projects/
 
 ## Structure
 
